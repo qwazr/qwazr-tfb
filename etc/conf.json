@@ -1,0 +1,14 @@
+{
+  "controllers": {
+    "": "com.qwazr.example.HomeServlet"
+  },
+  "statics": {
+    "/css/*": "src/static/css"
+  },
+  "library": [
+    {
+      "name": "freemarker",
+      "class": "com.qwazr.tools.FreeMarkerTool"
+    }
+  ]
+}
