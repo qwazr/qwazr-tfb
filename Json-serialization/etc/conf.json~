@@ -1,6 +1,6 @@
 {
   "controllers": {
-    "": "com.qwazr.example.HomeServlet"
+    "Json-serialization/src/main/java/com/qwazrTfb/example/": "com.qwazrTfb.example.JsonController"
   },
   "statics": {
     "/css/*": "src/static/css"

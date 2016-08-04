@@ -1,0 +1,14 @@
+{
+  "controllers": {
+    "/": "com.qwazrTfb.example.JsonController"
+  },
+  "statics": {
+    "/css/*": "src/static/css"
+  },
+  "library": [
+    {
+      "name": "freemarker",
+      "class": "com.qwazr.tools.FreeMarkerTool"
+    }
+  ]
+}

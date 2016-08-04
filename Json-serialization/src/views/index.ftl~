@@ -4,6 +4,5 @@
 </head>
 <body>
 <h1>${request.getAttribute('my_var')}</h1>
-<h2>test</h2>
 </body>
 </html>
