@@ -1,4 +1,4 @@
-package com.qwazrTfb.exemple;
+package com.qwazrtfb.exemple;
 
 import com.qwazr.library.annotations.Library;
 import com.qwazr.tools.FreeMarkerTool;

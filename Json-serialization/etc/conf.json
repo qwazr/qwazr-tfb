@@ -1,6 +1,6 @@
 {
   "controllers": {
-    "/": "com.qwazrTfb.example.JsonController"
+    "": "com.qwazrtfb.exemple.JsonController"
   },
   "statics": {
     "/css/*": "src/static/css"
